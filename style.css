@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header > a:hover {
+    text-decoration: underline;
+}
+
+.yuzde input:focus {
+    outline: none;
+}
+
+.yuzde {
+    margin-left: 30%;
+    width: 40%;
+    margin-top: 7%;
+    height: 700px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(88, 82, 82);
+}
+
+.yuzde button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.6s;
+}
+.yuzde button {
+    font-size: 20px;
+}
